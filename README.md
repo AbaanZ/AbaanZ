@@ -1,4 +1,4 @@
-Hey! My name's Abdurrehman (you can call me Abaan)!
+Hey, my name's Abaan!
 
 I'm currently studying computer science at the University of Texas at Dallas. I have experience working with full-stack projects and am accustomed to using languages such as JavaScript and HTML, as well as technologies like React.
 
