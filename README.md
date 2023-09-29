@@ -3,10 +3,10 @@ Hey, my name's Abaan!
 I'm currently studying computer science at the University of Texas at Dallas. I have experience working with full-stack projects and am accustomed to using languages such as JavaScript and HTML, as well as technologies like React.
 
 Some of my technical skills are listed below:
-- Languages: C, C++, Java, Kotlin, JavaScript, Python, Racket, HTML5, MIPS
-- Frameworks & Technologies: React, JUnit, CSS
+- Languages: C, C++, Java, Kotlin, SQL, JavaScript, Python, Scheme, Prolog, HTML/CSS, MIPS
+- Frameworks & Technologies: Hadoop, GraphQL, React, JUnit, Tailwind CSS
 - Operating Systems: Windows, macOS, Linux
-- Tools: Git, Bash, PowerShell
+- Tools: Git, Bash, PowerShell, Vim 
 
 In my free time, I like writing, sketching, and reading. I look forward to contributing to the world of technology in any way possible.
 
